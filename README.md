@@ -8,7 +8,7 @@
 
 ## 以太坊
 
-[设计初衷](aa)
+[设计初衷](https://github.com/bsdfzzzy/The-Road-To-BlockChain/blob/master/ethereum/%E8%AE%BE%E8%AE%A1%E5%88%9D%E8%A1%B7.md)
 
 ## 卡尔达诺
 
