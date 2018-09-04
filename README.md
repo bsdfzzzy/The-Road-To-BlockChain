@@ -8,7 +8,9 @@
 
 ## 以太坊
 
-[设计初衷](https://github.com/bsdfzzzy/The-Road-To-BlockChain/blob/master/ethereum/%E8%AE%BE%E8%AE%A1%E5%88%9D%E8%A1%B7.md)
+- [官方文档](http://ethdocs.org/en/latest/introduction/what-is-ethereum.html)
+- [官方文档中文版](http://ethdoc.cn/introduction/what-is-ethereum.html)
+- [设计初衷](https://github.com/bsdfzzzy/The-Road-To-BlockChain/blob/master/ethereum/%E8%AE%BE%E8%AE%A1%E5%88%9D%E8%A1%B7.md)
 
 ## 卡尔达诺
 
